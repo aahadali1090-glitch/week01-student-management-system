@@ -1,0 +1,24 @@
+{
+    "students": [
+        {
+            "name": "Ali",
+            "marks": 85,
+            "grade": "A"
+        },
+        {
+            "name": "Ahmed",
+            "marks": 72,
+            "grade": "B"
+        },
+        {
+            "name": "Sara",
+            "marks": 92,
+            "grade": "A"
+        },
+        {
+            "name": "Ahad",
+            "marks": 76,
+            "grade": "B"
+        }
+    ]
+}
